@@ -23,6 +23,8 @@
 
    - Database System : Mysql, Firebase Firestore, Oracle Database
  
+   - CMS : Prismic.io , Sanity.io
+ 
  #
  
 ### 📅 Latest Projects: 

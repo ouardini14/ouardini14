@@ -20,6 +20,8 @@
    - Scripting language : Javascript,Typescript, Java, Python
 
    - FrameworK/Library : Angular, NextJs, React Native, Ionic, Three Js, Spring Boot
+   
+   - CSS tools : Tailwind CSS , bootstrap
 
    - Database System : Mysql, Firebase Firestore, Oracle Database
  

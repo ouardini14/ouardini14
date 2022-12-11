@@ -8,7 +8,7 @@
 
 
 ##### I am a Web & mobile Developer,currently working at [Justep-2C s.r.l](https://www.linkedin.com/company/2c-italy/) Company.  and I'm very passionate and dedicated to my work. I enjoy every detail in the process of building websites and applications.
-![I am a Web/mobile Developer, and I'm very passionate and dedicated to my work. I enjoy every detail in the process of building websites and applications.](https://media-exp2.licdn.com/dms/image/C4E16AQGKfiMYs1PAPQ/profile-displaybackgroundimage-shrink_350_1400/0/1653831200509?e=1663200000&v=beta&t=l795CkJBdd3OS909DC7ALBcv7QlsslOTLiSN1zssOWs)
+![I am a Web/mobile Developer, and I'm very passionate and dedicated to my work. I enjoy every detail in the process of building websites and applications.](https://github.com/ouardini14/ouardini14/blob/main/rovpv7i4doc31.jpg)
 
 #####  I have been developing apps for more than 3 years and contributing to a variety of projects in the past, improving the user experience and bringing new ideas to reality have been always my goal.
 

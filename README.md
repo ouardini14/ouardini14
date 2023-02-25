@@ -22,11 +22,11 @@
    
    - Scripting language : Javascript,Typescript, Java, Python
 
-   - FrameworK/Library : Angular, NextJs, React Native, Ionic, Three Js, Spring Boot
+   - FrameworK/Library : Angular, NextJs, React Native, Ionic, Three Js, Spring Boot,Express, React
    
    - CSS tools : Tailwind CSS , bootstrap
 
-   - Database System : Mysql, Firebase Firestore, Oracle Database
+   - Database System : Mysql, Firebase Firestore, Oracle Database,MongoDb
  
    - CMS : Prismic.io , Sanity.io
  
@@ -36,6 +36,7 @@
 
    
    - [Web 3.0 Neural Dao](https://neural-crypto.web.app/)
+   - [Ebooks App Online](https://react-ebooks-app.vercel.app/)
    - [Web 3.0 NFT Hunhea](https://hunhea.biz/home)
    - [Justep  -2c ](https://justep-three.web.app/Home)
    - [RUM RUM CASH -Ecommerce with rewarding system ](https://next-js-store-ecommerce.vercel.app/)

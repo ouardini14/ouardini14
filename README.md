@@ -10,8 +10,8 @@
 #
 
 
-##### I am a Web & mobile Developer,currently i m in the 4th year of Computer and Network Engineering Studies.   I'm very passionate and dedicated to my work. I enjoy every detail in the process of building websites and applications.
-![I am a Web/mobile Developer, and I'm very passionate and dedicated to my work. I enjoy every detail in the process of building websites and applications.](https://github.com/ouardini14/ouardini14/blob/main/rovpv7i4doc31.jpg)
+##### I am a Full Stack Software engineer.   I'm very passionate and dedicated to my work. I enjoy every detail in the process of building websites and applications.
+![I am a Full Stack Software engineer, and I'm very passionate and dedicated to my work. I enjoy every detail in the process of building websites and applications.](https://github.com/ouardini14/ouardini14/blob/main/rovpv7i4doc31.jpg)
 
 #####  I have been developing apps for more than 4 years and contributing to a variety of projects in the past, improving the user experience and bringing new ideas to reality have been always my goal.
 

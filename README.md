@@ -22,7 +22,7 @@
    
    - Scripting language : Javascript,Typescript, Java, Python
 
-   - FrameworK/Library : Angular, NextJs, React Native, Ionic, Three Js, Spring Boot,Express, React
+   - FrameworK/Library : Angular, NextJs,Nestjs; React Native, Ionic, Three Js, Spring Boot,Express, React
    
    - CSS tools : Tailwind CSS , bootstrap
 
